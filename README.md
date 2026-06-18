@@ -10,7 +10,7 @@ https://csscodexdotcom.github.io/cafea/
 CSS Codex https://csscodex.com
 
 ## Download
-https://github.com/csscodexdotcom/seoup/releases/download/v1.0/cafea.zip
+https://github.com/csscodexdotcom/cafea/releases/download/v1.0/cafea.zip
 
 ## Features
 - Bootstrap 5
